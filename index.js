@@ -57,11 +57,30 @@ const questions = [{
 
         name: "Tests"
     },  
-    {   type: "input",
+    {   type: "list",
 
         message: "What licenses are being used?",
 
-        name: "License"
+        name: "License",
+        
+        choices: [
+            "MIT_License",
+
+            "Apache License 2.0.",
+
+            "Mozilla Public License 2.0.",
+
+            "Common Development and Distribution License",
+
+            "Eclipse Public License version 2.0",
+
+            "GNU General Public License (GPL)",
+
+            "General Public License (LGPL)",
+
+            "No License"
+
+        ]
     },
     {
         type: "input",

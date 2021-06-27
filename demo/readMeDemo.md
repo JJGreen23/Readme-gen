@@ -1,9 +1,9 @@
 
-## undefined
+## Readme Generator
 
   
 ## Description
-something
+This project was built to help make readmes a lot easier and faster to create.
 
 ## Table of Contents
 *[Description](#description)
@@ -14,23 +14,23 @@ something
 *[License](#license)
 
 ## Installs
-HEHEHEHEHHE
+Inquirer
 
 ## Usage
-something
+This app is used in the command line where you input your correct information, and it creates your read me for you!
 
 ## Contributors
-Something
+Just me, and the tools given to me by the DU bootcamp
 
 ## Tests
-Something
+Nope
 
 ## License
-Something
+MIT_License
 
 ## Contact Information
 
-Github:[s]
+Github: https://github.com/jjgreen23
 
-Email:[ee]
+Email:[greenjj26@yahoo.com]
 
